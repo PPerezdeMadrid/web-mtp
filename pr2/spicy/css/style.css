@@ -328,7 +328,7 @@ button {
 /** banner section **/
 
 .banner_main {
-     background: #eae9e4;
+     background: #e0ba9b;
      padding: 20px 0px 90px 0px;
 }
 
@@ -336,6 +336,7 @@ button {
      text-align: left;
 }
 
+/* titulo principal*/
 .text-bg h1 {
      color: #5a2f27;
      font-size: 90px;
@@ -353,7 +354,7 @@ button {
 
 .main_form {
      padding: 60px 50px 80px 50px;
-     background: #5a2f27;
+     background: #a69e80;
      border-radius: 10px;
      border-top: #eda911 solid 15px;
 }
@@ -437,6 +438,11 @@ button {
      font-weight: bold;
 }
 
+.red {
+     color: #800909;
+     font-weight: bold;
+}
+
 .read_more {
      font-size: 17px;
      background-color: #000;
@@ -481,7 +487,7 @@ button {
 }
 
 .food .food_box:hover {
-     background: #fdbe31 !important;
+     background: #d28574 !important;
 }
 
 .food_box i img {
