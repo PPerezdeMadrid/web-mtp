@@ -51,7 +51,7 @@ body {
 }
 
 a {
-     color: ##fa9b9b;
+     color: #fa9b9b;
      text-decoration: none !important;
      outline: none !important;
      -webkit-transition: all .3s ease-in-out;
@@ -78,7 +78,7 @@ h6 {
 }
 
 h1 {
-     font-size: 24px;
+     font-size: 100px;
 }
 
 h2 {
